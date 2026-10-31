@@ -57,7 +57,7 @@ PRODUCT_PACKAGES += \
     libsynaFpSensorTestNwd \
     libuniapi \
     libuniplugin \
-    nfc_nci_nxp_vendor \
+    nfc_nci_nxp \
     sensors.grip \
     sensors.inputvirtual \
     sensors.sensorhub \
