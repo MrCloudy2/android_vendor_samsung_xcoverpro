@@ -9,6 +9,18 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/xcoverpro/proprietary/vendor/etc/init/fingerprint_common.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fingerprint_common.rc \
     vendor/samsung/xcoverpro/proprietary/vendor/etc/init/nxp.android.hardware.nfc@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/nxp.android.hardware.nfc@1.1-service.rc \
     vendor/samsung/xcoverpro/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/hydra_config.sdb:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/hydra_config.sdb \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_bt.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_bt.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_common.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_common.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_t_wlan.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_t_wlan.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_t_wlan_sw.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_t_wlan_sw.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_t_wlan_t.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_t_wlan_t.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_t_wlan_t_sw.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_t_wlan_t_sw.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_wlan.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_wlan.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_wlan_sw.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_wlan_sw.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_wlan_t.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_wlan_t.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/mx140_wlan_t_sw.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_wlan_t_sw.hcf \
+    vendor/samsung/xcoverpro/proprietary/vendor/etc/wifi/platform.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/platform.txt \
     vendor/samsung/xcoverpro/proprietary/vendor/firmware/APBargeIn_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/APBargeIn_AUDIO_SLSI.bin \
     vendor/samsung/xcoverpro/proprietary/vendor/firmware/APBiBF_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/APBiBF_AUDIO_SLSI.bin \
     vendor/samsung/xcoverpro/proprietary/vendor/firmware/AP_AUDIO_SLSI.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/AP_AUDIO_SLSI.bin \
